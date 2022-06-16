@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abu Niaz</h1>
+<h1 align="center">Hola 👋, this is Abu Niaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Fronted Design**
+- 🔭 I’m currently working on **Frontend Design**
 
 - 🌱 I’m currently learning **Flutter**
 
